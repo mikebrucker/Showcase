@@ -61,3 +61,11 @@ button {
     color: #1a237e;
   }
 }
+
+@media all and (max-width: 500px) {
+  .about {
+    img {
+      width: 120px;
+    }
+  }
+}
